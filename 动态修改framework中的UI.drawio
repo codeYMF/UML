@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T08:05:55.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" version="14.6.6" etag="8K-bf5qoNZ_Ifi82a9g4" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-28T11:01:58.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="R9uNHpyiERWBRXoDvCFl" version="14.6.6" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2" dy="-1288" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-7" target="ibl3hHL-r4wlo9xV1WxU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-7" value="使用Xcode创建工程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-9" target="ibl3hHL-r4wlo9xV1WxU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-9" value="在工程中集成framework" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-11" target="ibl3hHL-r4wlo9xV1WxU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-11" value="获取UI界面对应的类名" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-13" target="ibl3hHL-r4wlo9xV1WxU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-13" value="创建对应类的分类" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-15" target="ibl3hHL-r4wlo9xV1WxU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-15" value="在分类中重写相关生命周期方法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-17" value="在生命周期方法中重新绘制UI" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="980" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-20" target="ibl3hHL-r4wlo9xV1WxU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-20" value="使用Xcode创建工程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-22" target="ibl3hHL-r4wlo9xV1WxU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-22" value="在工程中集成framework" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-24" target="ibl3hHL-r4wlo9xV1WxU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-24" value="获取UI界面对应的类名" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-26" target="ibl3hHL-r4wlo9xV1WxU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-26" value="创建对应类的分类" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-28" target="ibl3hHL-r4wlo9xV1WxU-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-28" value="在分类中交换相关生命周期方法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-29" target="ibl3hHL-r4wlo9xV1WxU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-29" value="在生命周期方法中移除或隐藏旧的UI，并重新绘制新UI" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="980" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibl3hHL-r4wlo9xV1WxU-30" target="ibl3hHL-r4wlo9xV1WxU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-30" value="获取类中的所有属性和方法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="980" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibl3hHL-r4wlo9xV1WxU-32" value="根据旧的逻辑关系将新UI与旧UI的逻辑结合在一起" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
